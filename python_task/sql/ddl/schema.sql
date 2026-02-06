@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS rooms (
+    id INTEGER PRIMARY KEY,
+    name TEXT UNIQUE NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS students (
+    id INTEGER PRIMARY KEY,
+    name TEXT NOT NULL,
+    birthday DATE NOT NULL,
+    sex TEXT NOT NULL,
+    room INTEGER REFERENCES rooms(id)
+);

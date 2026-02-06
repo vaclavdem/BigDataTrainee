@@ -1,0 +1,35 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:15
+    container_name: postgres_db
+    restart: always
+    environment:
+      POSTGRES_DB: ${DBNAME}
+      POSTGRES_USER: ${USER}
+      POSTGRES_PASSWORD: ${PASSWORD}
+    ports:
+      - "5433:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+
+  app:
+    build: .
+    container_name: python_app
+    depends_on:
+      - db
+    environment:
+      POSTGRES_DB: ${DBNAME}
+      POSTGRES_USER: ${USER}
+      POSTGRES_PASSWORD: ${PASSWORD}
+      POSTGRES_HOST: ${HOST}
+      POSTGRES_PORT: ${PORT}
+    volumes:
+      - .:/app
+    command: >
+      sh -c "sleep 5 && python main.py --rooms rooms.json --students students.json"
+
+
+volumes:
+  pg_data:
