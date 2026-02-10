@@ -1,0 +1,597 @@
+{"city":"Amroha","active_customers":0,"inactive_customers":1}
+{"city":"Bat Yam","active_customers":0,"inactive_customers":1}
+{"city":"Charlotte Amalie","active_customers":0,"inactive_customers":1}
+{"city":"Coatzacoalcos","active_customers":0,"inactive_customers":1}
+{"city":"Daxian","active_customers":0,"inactive_customers":1}
+{"city":"Kamyin","active_customers":0,"inactive_customers":1}
+{"city":"Ktahya","active_customers":0,"inactive_customers":1}
+{"city":"Kumbakonam","active_customers":0,"inactive_customers":1}
+{"city":"Najafabad","active_customers":0,"inactive_customers":1}
+{"city":"Pingxiang","active_customers":0,"inactive_customers":1}
+{"city":"Southend-on-Sea","active_customers":0,"inactive_customers":1}
+{"city":"Szkesfehrvr","active_customers":0,"inactive_customers":1}
+{"city":"Uluberia","active_customers":0,"inactive_customers":1}
+{"city":"Wroclaw","active_customers":0,"inactive_customers":1}
+{"city":"Xiangfan","active_customers":0,"inactive_customers":1}
+{"city":"A Corua (La Corua)","active_customers":1,"inactive_customers":0}
+{"city":"Abha","active_customers":1,"inactive_customers":0}
+{"city":"Abu Dhabi","active_customers":1,"inactive_customers":0}
+{"city":"Acua","active_customers":1,"inactive_customers":0}
+{"city":"Adana","active_customers":1,"inactive_customers":0}
+{"city":"Addis Abeba","active_customers":1,"inactive_customers":0}
+{"city":"Aden","active_customers":1,"inactive_customers":0}
+{"city":"Adoni","active_customers":1,"inactive_customers":0}
+{"city":"Ahmadnagar","active_customers":1,"inactive_customers":0}
+{"city":"Akishima","active_customers":1,"inactive_customers":0}
+{"city":"Akron","active_customers":1,"inactive_customers":0}
+{"city":"Alessandria","active_customers":1,"inactive_customers":0}
+{"city":"Allappuzha (Alleppey)","active_customers":1,"inactive_customers":0}
+{"city":"Allende","active_customers":1,"inactive_customers":0}
+{"city":"Almirante Brown","active_customers":1,"inactive_customers":0}
+{"city":"Alvorada","active_customers":1,"inactive_customers":0}
+{"city":"Ambattur","active_customers":1,"inactive_customers":0}
+{"city":"Amersfoort","active_customers":1,"inactive_customers":0}
+{"city":"Angra dos Reis","active_customers":1,"inactive_customers":0}
+{"city":"Anpolis","active_customers":1,"inactive_customers":0}
+{"city":"Antofagasta","active_customers":1,"inactive_customers":0}
+{"city":"Aparecida de Goinia","active_customers":1,"inactive_customers":0}
+{"city":"Apeldoorn","active_customers":1,"inactive_customers":0}
+{"city":"Araatuba","active_customers":1,"inactive_customers":0}
+{"city":"Arak","active_customers":1,"inactive_customers":0}
+{"city":"Arecibo","active_customers":1,"inactive_customers":0}
+{"city":"Arlington","active_customers":1,"inactive_customers":0}
+{"city":"Ashdod","active_customers":1,"inactive_customers":0}
+{"city":"Ashgabat","active_customers":1,"inactive_customers":0}
+{"city":"Ashqelon","active_customers":1,"inactive_customers":0}
+{"city":"Asuncin","active_customers":1,"inactive_customers":0}
+{"city":"Athenai","active_customers":1,"inactive_customers":0}
+{"city":"Atinsk","active_customers":1,"inactive_customers":0}
+{"city":"Atlixco","active_customers":1,"inactive_customers":0}
+{"city":"Augusta-Richmond County","active_customers":1,"inactive_customers":0}
+{"city":"Aurora","active_customers":2,"inactive_customers":0}
+{"city":"Avellaneda","active_customers":1,"inactive_customers":0}
+{"city":"Bag","active_customers":1,"inactive_customers":0}
+{"city":"Baha Blanca","active_customers":1,"inactive_customers":0}
+{"city":"Baicheng","active_customers":1,"inactive_customers":0}
+{"city":"Baiyin","active_customers":1,"inactive_customers":0}
+{"city":"Baku","active_customers":1,"inactive_customers":0}
+{"city":"Balaiha","active_customers":1,"inactive_customers":0}
+{"city":"Balikesir","active_customers":1,"inactive_customers":0}
+{"city":"Balurghat","active_customers":1,"inactive_customers":0}
+{"city":"Bamenda","active_customers":1,"inactive_customers":0}
+{"city":"Bandar Seri Begawan","active_customers":1,"inactive_customers":0}
+{"city":"Banjul","active_customers":1,"inactive_customers":0}
+{"city":"Barcelona","active_customers":1,"inactive_customers":0}
+{"city":"Basel","active_customers":1,"inactive_customers":0}
+{"city":"Batman","active_customers":1,"inactive_customers":0}
+{"city":"Batna","active_customers":1,"inactive_customers":0}
+{"city":"Battambang","active_customers":1,"inactive_customers":0}
+{"city":"Baybay","active_customers":1,"inactive_customers":0}
+{"city":"Bayugan","active_customers":1,"inactive_customers":0}
+{"city":"Bchar","active_customers":1,"inactive_customers":0}
+{"city":"Beira","active_customers":1,"inactive_customers":0}
+{"city":"Bellevue","active_customers":1,"inactive_customers":0}
+{"city":"Belm","active_customers":1,"inactive_customers":0}
+{"city":"Benguela","active_customers":1,"inactive_customers":0}
+{"city":"Beni-Mellal","active_customers":1,"inactive_customers":0}
+{"city":"Benin City","active_customers":1,"inactive_customers":0}
+{"city":"Bergamo","active_customers":1,"inactive_customers":0}
+{"city":"Berhampore (Baharampur)","active_customers":1,"inactive_customers":0}
+{"city":"Bern","active_customers":1,"inactive_customers":0}
+{"city":"Bhavnagar","active_customers":1,"inactive_customers":0}
+{"city":"Bhilwara","active_customers":1,"inactive_customers":0}
+{"city":"Bhimavaram","active_customers":1,"inactive_customers":0}
+{"city":"Bhopal","active_customers":1,"inactive_customers":0}
+{"city":"Bhusawal","active_customers":1,"inactive_customers":0}
+{"city":"Bijapur","active_customers":1,"inactive_customers":0}
+{"city":"Bilbays","active_customers":1,"inactive_customers":0}
+{"city":"Binzhou","active_customers":1,"inactive_customers":0}
+{"city":"Birgunj","active_customers":1,"inactive_customers":0}
+{"city":"Bislig","active_customers":1,"inactive_customers":0}
+{"city":"Blumenau","active_customers":1,"inactive_customers":0}
+{"city":"Boa Vista","active_customers":1,"inactive_customers":0}
+{"city":"Boksburg","active_customers":1,"inactive_customers":0}
+{"city":"Botosani","active_customers":1,"inactive_customers":0}
+{"city":"Botshabelo","active_customers":1,"inactive_customers":0}
+{"city":"Bradford","active_customers":1,"inactive_customers":0}
+{"city":"Braslia","active_customers":1,"inactive_customers":0}
+{"city":"Bratislava","active_customers":1,"inactive_customers":0}
+{"city":"Brescia","active_customers":1,"inactive_customers":0}
+{"city":"Brest","active_customers":1,"inactive_customers":0}
+{"city":"Brindisi","active_customers":1,"inactive_customers":0}
+{"city":"Brockton","active_customers":1,"inactive_customers":0}
+{"city":"Bucuresti","active_customers":1,"inactive_customers":0}
+{"city":"Buenaventura","active_customers":1,"inactive_customers":0}
+{"city":"Bydgoszcz","active_customers":1,"inactive_customers":0}
+{"city":"Cabuyao","active_customers":1,"inactive_customers":0}
+{"city":"Callao","active_customers":1,"inactive_customers":0}
+{"city":"Cam Ranh","active_customers":1,"inactive_customers":0}
+{"city":"Cape Coral","active_customers":1,"inactive_customers":0}
+{"city":"Caracas","active_customers":1,"inactive_customers":0}
+{"city":"Carmen","active_customers":1,"inactive_customers":0}
+{"city":"Cavite","active_customers":1,"inactive_customers":0}
+{"city":"Cayenne","active_customers":1,"inactive_customers":0}
+{"city":"Celaya","active_customers":1,"inactive_customers":0}
+{"city":"Chandrapur","active_customers":1,"inactive_customers":0}
+{"city":"Changhwa","active_customers":1,"inactive_customers":0}
+{"city":"Changzhou","active_customers":1,"inactive_customers":0}
+{"city":"Chapra","active_customers":1,"inactive_customers":0}
+{"city":"Chatsworth","active_customers":1,"inactive_customers":0}
+{"city":"Cheju","active_customers":1,"inactive_customers":0}
+{"city":"Chiayi","active_customers":1,"inactive_customers":0}
+{"city":"Chisinau","active_customers":1,"inactive_customers":0}
+{"city":"Chungho","active_customers":1,"inactive_customers":0}
+{"city":"Cianjur","active_customers":1,"inactive_customers":0}
+{"city":"Ciomas","active_customers":1,"inactive_customers":0}
+{"city":"Ciparay","active_customers":1,"inactive_customers":0}
+{"city":"Citrus Heights","active_customers":1,"inactive_customers":0}
+{"city":"Citt del Vaticano","active_customers":1,"inactive_customers":0}
+{"city":"Ciudad del Este","active_customers":1,"inactive_customers":0}
+{"city":"Clarksville","active_customers":1,"inactive_customers":0}
+{"city":"Coacalco de Berriozbal","active_customers":1,"inactive_customers":0}
+{"city":"Compton","active_customers":1,"inactive_customers":0}
+{"city":"Coquimbo","active_customers":1,"inactive_customers":0}
+{"city":"Crdoba","active_customers":1,"inactive_customers":0}
+{"city":"Cuauhtmoc","active_customers":1,"inactive_customers":0}
+{"city":"Cuautla","active_customers":1,"inactive_customers":0}
+{"city":"Cuernavaca","active_customers":1,"inactive_customers":0}
+{"city":"Cuman","active_customers":1,"inactive_customers":0}
+{"city":"Czestochowa","active_customers":1,"inactive_customers":0}
+{"city":"Dadu","active_customers":1,"inactive_customers":0}
+{"city":"Dallas","active_customers":1,"inactive_customers":0}
+{"city":"Datong","active_customers":1,"inactive_customers":0}
+{"city":"Daugavpils","active_customers":1,"inactive_customers":0}
+{"city":"Davao","active_customers":1,"inactive_customers":0}
+{"city":"Dayton","active_customers":1,"inactive_customers":0}
+{"city":"Deba Habe","active_customers":1,"inactive_customers":0}
+{"city":"Denizli","active_customers":1,"inactive_customers":0}
+{"city":"Dhaka","active_customers":1,"inactive_customers":0}
+{"city":"Dhule (Dhulia)","active_customers":1,"inactive_customers":0}
+{"city":"Dongying","active_customers":1,"inactive_customers":0}
+{"city":"Donostia-San Sebastin","active_customers":1,"inactive_customers":0}
+{"city":"Dos Quebradas","active_customers":1,"inactive_customers":0}
+{"city":"Duisburg","active_customers":1,"inactive_customers":0}
+{"city":"Dundee","active_customers":1,"inactive_customers":0}
+{"city":"Dzerzinsk","active_customers":1,"inactive_customers":0}
+{"city":"Ede","active_customers":1,"inactive_customers":0}
+{"city":"Effon-Alaiye","active_customers":1,"inactive_customers":0}
+{"city":"El Alto","active_customers":1,"inactive_customers":0}
+{"city":"El Fuerte","active_customers":1,"inactive_customers":0}
+{"city":"El Monte","active_customers":1,"inactive_customers":0}
+{"city":"Elista","active_customers":1,"inactive_customers":0}
+{"city":"Emeishan","active_customers":1,"inactive_customers":0}
+{"city":"Emmen","active_customers":1,"inactive_customers":0}
+{"city":"Enshi","active_customers":1,"inactive_customers":0}
+{"city":"Erlangen","active_customers":1,"inactive_customers":0}
+{"city":"Escobar","active_customers":1,"inactive_customers":0}
+{"city":"Esfahan","active_customers":1,"inactive_customers":0}
+{"city":"Eskisehir","active_customers":1,"inactive_customers":0}
+{"city":"Etawah","active_customers":1,"inactive_customers":0}
+{"city":"Ezeiza","active_customers":1,"inactive_customers":0}
+{"city":"Ezhou","active_customers":1,"inactive_customers":0}
+{"city":"Faaa","active_customers":1,"inactive_customers":0}
+{"city":"Fengshan","active_customers":1,"inactive_customers":0}
+{"city":"Firozabad","active_customers":1,"inactive_customers":0}
+{"city":"Florencia","active_customers":1,"inactive_customers":0}
+{"city":"Fontana","active_customers":1,"inactive_customers":0}
+{"city":"Fukuyama","active_customers":1,"inactive_customers":0}
+{"city":"Funafuti","active_customers":1,"inactive_customers":0}
+{"city":"Fuyu","active_customers":1,"inactive_customers":0}
+{"city":"Fuzhou","active_customers":1,"inactive_customers":0}
+{"city":"Gandhinagar","active_customers":1,"inactive_customers":0}
+{"city":"Garden Grove","active_customers":1,"inactive_customers":0}
+{"city":"Garland","active_customers":1,"inactive_customers":0}
+{"city":"Gatineau","active_customers":1,"inactive_customers":0}
+{"city":"Gaziantep","active_customers":1,"inactive_customers":0}
+{"city":"Gijn","active_customers":1,"inactive_customers":0}
+{"city":"Gingoog","active_customers":1,"inactive_customers":0}
+{"city":"Goinia","active_customers":1,"inactive_customers":0}
+{"city":"Gorontalo","active_customers":1,"inactive_customers":0}
+{"city":"Grand Prairie","active_customers":1,"inactive_customers":0}
+{"city":"Graz","active_customers":1,"inactive_customers":0}
+{"city":"Greensboro","active_customers":1,"inactive_customers":0}
+{"city":"Guadalajara","active_customers":1,"inactive_customers":0}
+{"city":"Guaruj","active_customers":1,"inactive_customers":0}
+{"city":"Gulbarga","active_customers":1,"inactive_customers":0}
+{"city":"Hagonoy","active_customers":1,"inactive_customers":0}
+{"city":"Haining","active_customers":1,"inactive_customers":0}
+{"city":"Haiphong","active_customers":1,"inactive_customers":0}
+{"city":"Haldia","active_customers":1,"inactive_customers":0}
+{"city":"Halifax","active_customers":1,"inactive_customers":0}
+{"city":"Halisahar","active_customers":1,"inactive_customers":0}
+{"city":"Halle/Saale","active_customers":1,"inactive_customers":0}
+{"city":"Hami","active_customers":1,"inactive_customers":0}
+{"city":"Hamilton","active_customers":1,"inactive_customers":0}
+{"city":"Hanoi","active_customers":1,"inactive_customers":0}
+{"city":"Hidalgo","active_customers":1,"inactive_customers":0}
+{"city":"Higashiosaka","active_customers":1,"inactive_customers":0}
+{"city":"Hino","active_customers":1,"inactive_customers":0}
+{"city":"Hiroshima","active_customers":1,"inactive_customers":0}
+{"city":"Hodeida","active_customers":1,"inactive_customers":0}
+{"city":"Hohhot","active_customers":1,"inactive_customers":0}
+{"city":"Hoshiarpur","active_customers":1,"inactive_customers":0}
+{"city":"Hsichuh","active_customers":1,"inactive_customers":0}
+{"city":"Huaian","active_customers":1,"inactive_customers":0}
+{"city":"Hubli-Dharwad","active_customers":1,"inactive_customers":0}
+{"city":"Huejutla de Reyes","active_customers":1,"inactive_customers":0}
+{"city":"Huixquilucan","active_customers":1,"inactive_customers":0}
+{"city":"Hunuco","active_customers":1,"inactive_customers":0}
+{"city":"Ibirit","active_customers":1,"inactive_customers":0}
+{"city":"Idfu","active_customers":1,"inactive_customers":0}
+{"city":"Ife","active_customers":1,"inactive_customers":0}
+{"city":"Ikerre","active_customers":1,"inactive_customers":0}
+{"city":"Iligan","active_customers":1,"inactive_customers":0}
+{"city":"Ilorin","active_customers":1,"inactive_customers":0}
+{"city":"Imus","active_customers":1,"inactive_customers":0}
+{"city":"Inegl","active_customers":1,"inactive_customers":0}
+{"city":"Ipoh","active_customers":1,"inactive_customers":0}
+{"city":"Isesaki","active_customers":1,"inactive_customers":0}
+{"city":"Ivanovo","active_customers":1,"inactive_customers":0}
+{"city":"Iwaki","active_customers":1,"inactive_customers":0}
+{"city":"Iwakuni","active_customers":1,"inactive_customers":0}
+{"city":"Iwatsuki","active_customers":1,"inactive_customers":0}
+{"city":"Izumisano","active_customers":1,"inactive_customers":0}
+{"city":"Jaffna","active_customers":1,"inactive_customers":0}
+{"city":"Jaipur","active_customers":1,"inactive_customers":0}
+{"city":"Jakarta","active_customers":1,"inactive_customers":0}
+{"city":"Jalib al-Shuyukh","active_customers":1,"inactive_customers":0}
+{"city":"Jamalpur","active_customers":1,"inactive_customers":0}
+{"city":"Jaroslavl","active_customers":1,"inactive_customers":0}
+{"city":"Jastrzebie-Zdrj","active_customers":1,"inactive_customers":0}
+{"city":"Jedda","active_customers":1,"inactive_customers":0}
+{"city":"Jelets","active_customers":1,"inactive_customers":0}
+{"city":"Jhansi","active_customers":1,"inactive_customers":0}
+{"city":"Jinchang","active_customers":1,"inactive_customers":0}
+{"city":"Jining","active_customers":1,"inactive_customers":0}
+{"city":"Jinzhou","active_customers":1,"inactive_customers":0}
+{"city":"Jodhpur","active_customers":1,"inactive_customers":0}
+{"city":"Johannesburg","active_customers":1,"inactive_customers":0}
+{"city":"Joliet","active_customers":1,"inactive_customers":0}
+{"city":"Jos Azueta","active_customers":1,"inactive_customers":0}
+{"city":"Juazeiro do Norte","active_customers":1,"inactive_customers":0}
+{"city":"Juiz de Fora","active_customers":1,"inactive_customers":0}
+{"city":"Junan","active_customers":1,"inactive_customers":0}
+{"city":"Jurez","active_customers":1,"inactive_customers":0}
+{"city":"Kabul","active_customers":1,"inactive_customers":0}
+{"city":"Kaduna","active_customers":1,"inactive_customers":0}
+{"city":"Kakamigahara","active_customers":1,"inactive_customers":0}
+{"city":"Kaliningrad","active_customers":1,"inactive_customers":0}
+{"city":"Kalisz","active_customers":1,"inactive_customers":0}
+{"city":"Kamakura","active_customers":1,"inactive_customers":0}
+{"city":"Kamarhati","active_customers":1,"inactive_customers":0}
+{"city":"Kamjanets-Podilskyi","active_customers":1,"inactive_customers":0}
+{"city":"Kanazawa","active_customers":1,"inactive_customers":0}
+{"city":"Kanchrapara","active_customers":1,"inactive_customers":0}
+{"city":"Kansas City","active_customers":1,"inactive_customers":0}
+{"city":"Karnal","active_customers":1,"inactive_customers":0}
+{"city":"Katihar","active_customers":1,"inactive_customers":0}
+{"city":"Kermanshah","active_customers":1,"inactive_customers":0}
+{"city":"Kilis","active_customers":1,"inactive_customers":0}
+{"city":"Kimberley","active_customers":1,"inactive_customers":0}
+{"city":"Kimchon","active_customers":1,"inactive_customers":0}
+{"city":"Kingstown","active_customers":1,"inactive_customers":0}
+{"city":"Kirovo-Tepetsk","active_customers":1,"inactive_customers":0}
+{"city":"Kisumu","active_customers":1,"inactive_customers":0}
+{"city":"Kitwe","active_customers":1,"inactive_customers":0}
+{"city":"Klerksdorp","active_customers":1,"inactive_customers":0}
+{"city":"Kolpino","active_customers":1,"inactive_customers":0}
+{"city":"Konotop","active_customers":1,"inactive_customers":0}
+{"city":"Koriyama","active_customers":1,"inactive_customers":0}
+{"city":"Korla","active_customers":1,"inactive_customers":0}
+{"city":"Korolev","active_customers":1,"inactive_customers":0}
+{"city":"Kowloon and New Kowloon","active_customers":1,"inactive_customers":0}
+{"city":"Kragujevac","active_customers":1,"inactive_customers":0}
+{"city":"Kuching","active_customers":1,"inactive_customers":0}
+{"city":"Kurashiki","active_customers":1,"inactive_customers":0}
+{"city":"Kurgan","active_customers":1,"inactive_customers":0}
+{"city":"Kursk","active_customers":1,"inactive_customers":0}
+{"city":"Kuwana","active_customers":1,"inactive_customers":0}
+{"city":"La Paz","active_customers":1,"inactive_customers":0}
+{"city":"La Plata","active_customers":1,"inactive_customers":0}
+{"city":"La Romana","active_customers":1,"inactive_customers":0}
+{"city":"Laiwu","active_customers":1,"inactive_customers":0}
+{"city":"Lancaster","active_customers":1,"inactive_customers":0}
+{"city":"Laohekou","active_customers":1,"inactive_customers":0}
+{"city":"Lapu-Lapu","active_customers":1,"inactive_customers":0}
+{"city":"Laredo","active_customers":1,"inactive_customers":0}
+{"city":"Lausanne","active_customers":1,"inactive_customers":0}
+{"city":"Le Mans","active_customers":1,"inactive_customers":0}
+{"city":"Lengshuijiang","active_customers":1,"inactive_customers":0}
+{"city":"Leshan","active_customers":1,"inactive_customers":0}
+{"city":"Lhokseumawe","active_customers":1,"inactive_customers":0}
+{"city":"Liaocheng","active_customers":1,"inactive_customers":0}
+{"city":"Liepaja","active_customers":1,"inactive_customers":0}
+{"city":"Lilongwe","active_customers":1,"inactive_customers":0}
+{"city":"Lima","active_customers":1,"inactive_customers":0}
+{"city":"Lincoln","active_customers":1,"inactive_customers":0}
+{"city":"Linz","active_customers":1,"inactive_customers":0}
+{"city":"Lipetsk","active_customers":1,"inactive_customers":0}
+{"city":"Livorno","active_customers":1,"inactive_customers":0}
+{"city":"Ljubertsy","active_customers":1,"inactive_customers":0}
+{"city":"Loja","active_customers":1,"inactive_customers":0}
+{"city":"London","active_customers":2,"inactive_customers":0}
+{"city":"Lublin","active_customers":1,"inactive_customers":0}
+{"city":"Lubumbashi","active_customers":1,"inactive_customers":0}
+{"city":"Lungtan","active_customers":1,"inactive_customers":0}
+{"city":"Luzinia","active_customers":1,"inactive_customers":0}
+{"city":"Madiun","active_customers":1,"inactive_customers":0}
+{"city":"Mahajanga","active_customers":1,"inactive_customers":0}
+{"city":"Maikop","active_customers":1,"inactive_customers":0}
+{"city":"Malm","active_customers":1,"inactive_customers":0}
+{"city":"Manchester","active_customers":1,"inactive_customers":0}
+{"city":"Mandaluyong","active_customers":1,"inactive_customers":0}
+{"city":"Mandi Bahauddin","active_customers":1,"inactive_customers":0}
+{"city":"Mannheim","active_customers":1,"inactive_customers":0}
+{"city":"Maracabo","active_customers":1,"inactive_customers":0}
+{"city":"Mardan","active_customers":1,"inactive_customers":0}
+{"city":"Maring","active_customers":1,"inactive_customers":0}
+{"city":"Masqat","active_customers":1,"inactive_customers":0}
+{"city":"Matamoros","active_customers":1,"inactive_customers":0}
+{"city":"Matsue","active_customers":1,"inactive_customers":0}
+{"city":"Meixian","active_customers":1,"inactive_customers":0}
+{"city":"Memphis","active_customers":1,"inactive_customers":0}
+{"city":"Merlo","active_customers":1,"inactive_customers":0}
+{"city":"Mexicali","active_customers":1,"inactive_customers":0}
+{"city":"Miraj","active_customers":1,"inactive_customers":0}
+{"city":"Mit Ghamr","active_customers":1,"inactive_customers":0}
+{"city":"Miyakonojo","active_customers":1,"inactive_customers":0}
+{"city":"Mogiljov","active_customers":1,"inactive_customers":0}
+{"city":"Molodetno","active_customers":1,"inactive_customers":0}
+{"city":"Monclova","active_customers":1,"inactive_customers":0}
+{"city":"Monywa","active_customers":1,"inactive_customers":0}
+{"city":"Moscow","active_customers":1,"inactive_customers":0}
+{"city":"Mosul","active_customers":1,"inactive_customers":0}
+{"city":"Mukateve","active_customers":1,"inactive_customers":0}
+{"city":"Munger (Monghyr)","active_customers":1,"inactive_customers":0}
+{"city":"Mwanza","active_customers":1,"inactive_customers":0}
+{"city":"Mwene-Ditu","active_customers":1,"inactive_customers":0}
+{"city":"Myingyan","active_customers":1,"inactive_customers":0}
+{"city":"Mysore","active_customers":1,"inactive_customers":0}
+{"city":"NDjamna","active_customers":1,"inactive_customers":0}
+{"city":"Naala-Porto","active_customers":1,"inactive_customers":0}
+{"city":"Nabereznyje Telny","active_customers":1,"inactive_customers":0}
+{"city":"Nador","active_customers":1,"inactive_customers":0}
+{"city":"Nagaon","active_customers":1,"inactive_customers":0}
+{"city":"Nagareyama","active_customers":1,"inactive_customers":0}
+{"city":"Naju","active_customers":1,"inactive_customers":0}
+{"city":"Nakhon Sawan","active_customers":1,"inactive_customers":0}
+{"city":"Nam Dinh","active_customers":1,"inactive_customers":0}
+{"city":"Namibe","active_customers":1,"inactive_customers":0}
+{"city":"Nantou","active_customers":1,"inactive_customers":0}
+{"city":"Nanyang","active_customers":1,"inactive_customers":0}
+{"city":"Newcastle","active_customers":1,"inactive_customers":0}
+{"city":"Nezahualcyotl","active_customers":1,"inactive_customers":0}
+{"city":"Nha Trang","active_customers":1,"inactive_customers":0}
+{"city":"Niznekamsk","active_customers":1,"inactive_customers":0}
+{"city":"Novi Sad","active_customers":1,"inactive_customers":0}
+{"city":"Novoterkassk","active_customers":1,"inactive_customers":0}
+{"city":"Nukualofa","active_customers":1,"inactive_customers":0}
+{"city":"Nuuk","active_customers":1,"inactive_customers":0}
+{"city":"Nyeri","active_customers":1,"inactive_customers":0}
+{"city":"Ocumare del Tuy","active_customers":1,"inactive_customers":0}
+{"city":"Ogbomosho","active_customers":1,"inactive_customers":0}
+{"city":"Okara","active_customers":1,"inactive_customers":0}
+{"city":"Okayama","active_customers":1,"inactive_customers":0}
+{"city":"Okinawa","active_customers":1,"inactive_customers":0}
+{"city":"Olomouc","active_customers":1,"inactive_customers":0}
+{"city":"Omdurman","active_customers":1,"inactive_customers":0}
+{"city":"Omiya","active_customers":1,"inactive_customers":0}
+{"city":"Ondo","active_customers":1,"inactive_customers":0}
+{"city":"Onomichi","active_customers":1,"inactive_customers":0}
+{"city":"Oshawa","active_customers":1,"inactive_customers":0}
+{"city":"Osmaniye","active_customers":1,"inactive_customers":0}
+{"city":"Otsu","active_customers":1,"inactive_customers":0}
+{"city":"Oulu","active_customers":1,"inactive_customers":0}
+{"city":"Ourense (Orense)","active_customers":1,"inactive_customers":0}
+{"city":"Owo","active_customers":1,"inactive_customers":0}
+{"city":"Oyo","active_customers":1,"inactive_customers":0}
+{"city":"Ozamis","active_customers":1,"inactive_customers":0}
+{"city":"Paarl","active_customers":1,"inactive_customers":0}
+{"city":"Pachuca de Soto","active_customers":1,"inactive_customers":0}
+{"city":"Pak Kret","active_customers":1,"inactive_customers":0}
+{"city":"Palghat (Palakkad)","active_customers":1,"inactive_customers":0}
+{"city":"Pangkal Pinang","active_customers":1,"inactive_customers":0}
+{"city":"Papeete","active_customers":1,"inactive_customers":0}
+{"city":"Parbhani","active_customers":1,"inactive_customers":0}
+{"city":"Pathankot","active_customers":1,"inactive_customers":0}
+{"city":"Patiala","active_customers":1,"inactive_customers":0}
+{"city":"Patras","active_customers":1,"inactive_customers":0}
+{"city":"Pavlodar","active_customers":1,"inactive_customers":0}
+{"city":"Pemalang","active_customers":1,"inactive_customers":0}
+{"city":"Peoria","active_customers":1,"inactive_customers":0}
+{"city":"Pereira","active_customers":1,"inactive_customers":0}
+{"city":"Phnom Penh","active_customers":1,"inactive_customers":0}
+{"city":"Pjatigorsk","active_customers":1,"inactive_customers":0}
+{"city":"Plock","active_customers":1,"inactive_customers":0}
+{"city":"Po","active_customers":1,"inactive_customers":0}
+{"city":"Ponce","active_customers":1,"inactive_customers":0}
+{"city":"Pontianak","active_customers":1,"inactive_customers":0}
+{"city":"Poos de Caldas","active_customers":1,"inactive_customers":0}
+{"city":"Portoviejo","active_customers":1,"inactive_customers":0}
+{"city":"Probolinggo","active_customers":1,"inactive_customers":0}
+{"city":"Pudukkottai","active_customers":1,"inactive_customers":0}
+{"city":"Pune","active_customers":1,"inactive_customers":0}
+{"city":"Purnea (Purnia)","active_customers":1,"inactive_customers":0}
+{"city":"Purwakarta","active_customers":1,"inactive_customers":0}
+{"city":"Pyongyang","active_customers":1,"inactive_customers":0}
+{"city":"Qalyub","active_customers":1,"inactive_customers":0}
+{"city":"Qinhuangdao","active_customers":1,"inactive_customers":0}
+{"city":"Qomsheh","active_customers":1,"inactive_customers":0}
+{"city":"Quilmes","active_customers":1,"inactive_customers":0}
+{"city":"Rae Bareli","active_customers":1,"inactive_customers":0}
+{"city":"Rajkot","active_customers":1,"inactive_customers":0}
+{"city":"Rampur","active_customers":1,"inactive_customers":0}
+{"city":"Rancagua","active_customers":1,"inactive_customers":0}
+{"city":"Ranchi","active_customers":1,"inactive_customers":0}
+{"city":"Richmond Hill","active_customers":1,"inactive_customers":0}
+{"city":"Rio Claro","active_customers":1,"inactive_customers":0}
+{"city":"Rizhao","active_customers":1,"inactive_customers":0}
+{"city":"Roanoke","active_customers":1,"inactive_customers":0}
+{"city":"Robamba","active_customers":1,"inactive_customers":0}
+{"city":"Rockford","active_customers":1,"inactive_customers":0}
+{"city":"Ruse","active_customers":1,"inactive_customers":0}
+{"city":"Rustenburg","active_customers":1,"inactive_customers":0}
+{"city":"Saarbrcken","active_customers":1,"inactive_customers":0}
+{"city":"Sagamihara","active_customers":1,"inactive_customers":0}
+{"city":"Saint Louis","active_customers":1,"inactive_customers":0}
+{"city":"Saint-Denis","active_customers":1,"inactive_customers":0}
+{"city":"Sal","active_customers":1,"inactive_customers":0}
+{"city":"Salala","active_customers":1,"inactive_customers":0}
+{"city":"Salamanca","active_customers":1,"inactive_customers":0}
+{"city":"Salinas","active_customers":1,"inactive_customers":0}
+{"city":"Salzburg","active_customers":1,"inactive_customers":0}
+{"city":"Sambhal","active_customers":1,"inactive_customers":0}
+{"city":"San Bernardino","active_customers":1,"inactive_customers":0}
+{"city":"San Felipe de Puerto Plata","active_customers":1,"inactive_customers":0}
+{"city":"San Felipe del Progreso","active_customers":1,"inactive_customers":0}
+{"city":"San Juan Bautista Tuxtepec","active_customers":1,"inactive_customers":0}
+{"city":"San Lorenzo","active_customers":1,"inactive_customers":0}
+{"city":"San Miguel de Tucumn","active_customers":1,"inactive_customers":0}
+{"city":"Sanaa","active_customers":1,"inactive_customers":0}
+{"city":"Santa Brbara dOeste","active_customers":1,"inactive_customers":0}
+{"city":"Santa F","active_customers":1,"inactive_customers":0}
+{"city":"Santa Rosa","active_customers":1,"inactive_customers":0}
+{"city":"Santiago de Compostela","active_customers":1,"inactive_customers":0}
+{"city":"Santiago de los Caballeros","active_customers":1,"inactive_customers":0}
+{"city":"Santo Andr","active_customers":1,"inactive_customers":0}
+{"city":"Sanya","active_customers":1,"inactive_customers":0}
+{"city":"Sasebo","active_customers":1,"inactive_customers":0}
+{"city":"Satna","active_customers":1,"inactive_customers":0}
+{"city":"Sawhaj","active_customers":1,"inactive_customers":0}
+{"city":"Serpuhov","active_customers":1,"inactive_customers":0}
+{"city":"Shahr-e Kord","active_customers":1,"inactive_customers":0}
+{"city":"Shanwei","active_customers":1,"inactive_customers":0}
+{"city":"Shaoguan","active_customers":1,"inactive_customers":0}
+{"city":"Sharja","active_customers":1,"inactive_customers":0}
+{"city":"Shenzhen","active_customers":1,"inactive_customers":0}
+{"city":"Shikarpur","active_customers":1,"inactive_customers":0}
+{"city":"Shimoga","active_customers":1,"inactive_customers":0}
+{"city":"Shimonoseki","active_customers":1,"inactive_customers":0}
+{"city":"Shivapuri","active_customers":1,"inactive_customers":0}
+{"city":"Shubra al-Khayma","active_customers":1,"inactive_customers":0}
+{"city":"Siegen","active_customers":1,"inactive_customers":0}
+{"city":"Siliguri (Shiliguri)","active_customers":1,"inactive_customers":0}
+{"city":"Simferopol","active_customers":1,"inactive_customers":0}
+{"city":"Sincelejo","active_customers":1,"inactive_customers":0}
+{"city":"Sirjan","active_customers":1,"inactive_customers":0}
+{"city":"Sivas","active_customers":1,"inactive_customers":0}
+{"city":"Skikda","active_customers":1,"inactive_customers":0}
+{"city":"Smolensk","active_customers":1,"inactive_customers":0}
+{"city":"So Bernardo do Campo","active_customers":1,"inactive_customers":0}
+{"city":"So Leopoldo","active_customers":1,"inactive_customers":0}
+{"city":"Sogamoso","active_customers":1,"inactive_customers":0}
+{"city":"Sokoto","active_customers":1,"inactive_customers":0}
+{"city":"Songkhla","active_customers":1,"inactive_customers":0}
+{"city":"Sorocaba","active_customers":1,"inactive_customers":0}
+{"city":"Soshanguve","active_customers":1,"inactive_customers":0}
+{"city":"Sousse","active_customers":1,"inactive_customers":0}
+{"city":"South Hill","active_customers":1,"inactive_customers":0}
+{"city":"Southampton","active_customers":1,"inactive_customers":0}
+{"city":"Southport","active_customers":1,"inactive_customers":0}
+{"city":"Springs","active_customers":1,"inactive_customers":0}
+{"city":"Stara Zagora","active_customers":1,"inactive_customers":0}
+{"city":"Sterling Heights","active_customers":1,"inactive_customers":0}
+{"city":"Stockport","active_customers":1,"inactive_customers":0}
+{"city":"Sucre","active_customers":1,"inactive_customers":0}
+{"city":"Suihua","active_customers":1,"inactive_customers":0}
+{"city":"Sullana","active_customers":1,"inactive_customers":0}
+{"city":"Sultanbeyli","active_customers":1,"inactive_customers":0}
+{"city":"Sumqayit","active_customers":1,"inactive_customers":0}
+{"city":"Sumy","active_customers":1,"inactive_customers":0}
+{"city":"Sungai Petani","active_customers":1,"inactive_customers":0}
+{"city":"Sunnyvale","active_customers":1,"inactive_customers":0}
+{"city":"Surakarta","active_customers":1,"inactive_customers":0}
+{"city":"Syktyvkar","active_customers":1,"inactive_customers":0}
+{"city":"Syrakusa","active_customers":1,"inactive_customers":0}
+{"city":"Tabora","active_customers":1,"inactive_customers":0}
+{"city":"Tabriz","active_customers":1,"inactive_customers":0}
+{"city":"Tabuk","active_customers":1,"inactive_customers":0}
+{"city":"Tafuna","active_customers":1,"inactive_customers":0}
+{"city":"Taguig","active_customers":1,"inactive_customers":0}
+{"city":"Taizz","active_customers":1,"inactive_customers":0}
+{"city":"Talavera","active_customers":1,"inactive_customers":0}
+{"city":"Tallahassee","active_customers":1,"inactive_customers":0}
+{"city":"Tama","active_customers":1,"inactive_customers":0}
+{"city":"Tambaram","active_customers":1,"inactive_customers":0}
+{"city":"Tanauan","active_customers":1,"inactive_customers":0}
+{"city":"Tandil","active_customers":1,"inactive_customers":0}
+{"city":"Tangail","active_customers":1,"inactive_customers":0}
+{"city":"Tanshui","active_customers":1,"inactive_customers":0}
+{"city":"Tanza","active_customers":1,"inactive_customers":0}
+{"city":"Tarlac","active_customers":1,"inactive_customers":0}
+{"city":"Tarsus","active_customers":1,"inactive_customers":0}
+{"city":"Tartu","active_customers":1,"inactive_customers":0}
+{"city":"Teboksary","active_customers":1,"inactive_customers":0}
+{"city":"Tegal","active_customers":1,"inactive_customers":0}
+{"city":"Tel Aviv-Jaffa","active_customers":1,"inactive_customers":0}
+{"city":"Tete","active_customers":1,"inactive_customers":0}
+{"city":"Tianjin","active_customers":1,"inactive_customers":0}
+{"city":"Tiefa","active_customers":1,"inactive_customers":0}
+{"city":"Tieli","active_customers":1,"inactive_customers":0}
+{"city":"Tokat","active_customers":1,"inactive_customers":0}
+{"city":"Tonghae","active_customers":1,"inactive_customers":0}
+{"city":"Tongliao","active_customers":1,"inactive_customers":0}
+{"city":"Torren","active_customers":1,"inactive_customers":0}
+{"city":"Touliu","active_customers":1,"inactive_customers":0}
+{"city":"Toulon","active_customers":1,"inactive_customers":0}
+{"city":"Toulouse","active_customers":1,"inactive_customers":0}
+{"city":"Trshavn","active_customers":1,"inactive_customers":0}
+{"city":"Tsaotun","active_customers":1,"inactive_customers":0}
+{"city":"Tsuyama","active_customers":1,"inactive_customers":0}
+{"city":"Tuguegarao","active_customers":1,"inactive_customers":0}
+{"city":"Tychy","active_customers":1,"inactive_customers":0}
+{"city":"Udaipur","active_customers":1,"inactive_customers":0}
+{"city":"Udine","active_customers":1,"inactive_customers":0}
+{"city":"Ueda","active_customers":1,"inactive_customers":0}
+{"city":"Uijongbu","active_customers":1,"inactive_customers":0}
+{"city":"Urawa","active_customers":1,"inactive_customers":0}
+{"city":"Uruapan","active_customers":1,"inactive_customers":0}
+{"city":"Usak","active_customers":1,"inactive_customers":0}
+{"city":"Usolje-Sibirskoje","active_customers":1,"inactive_customers":0}
+{"city":"Uttarpara-Kotrung","active_customers":1,"inactive_customers":0}
+{"city":"Vaduz","active_customers":1,"inactive_customers":0}
+{"city":"Valencia","active_customers":1,"inactive_customers":0}
+{"city":"Valle de Santiago","active_customers":1,"inactive_customers":0}
+{"city":"Valle de la Pascua","active_customers":1,"inactive_customers":0}
+{"city":"Valparai","active_customers":1,"inactive_customers":0}
+{"city":"Vancouver","active_customers":1,"inactive_customers":0}
+{"city":"Varanasi (Benares)","active_customers":1,"inactive_customers":0}
+{"city":"Vicente Lpez","active_customers":1,"inactive_customers":0}
+{"city":"Vijayawada","active_customers":1,"inactive_customers":0}
+{"city":"Vila Velha","active_customers":1,"inactive_customers":0}
+{"city":"Vilnius","active_customers":1,"inactive_customers":0}
+{"city":"Vinh","active_customers":1,"inactive_customers":0}
+{"city":"Vitria de Santo Anto","active_customers":1,"inactive_customers":0}
+{"city":"Warren","active_customers":1,"inactive_customers":0}
+{"city":"Weifang","active_customers":1,"inactive_customers":0}
+{"city":"Witten","active_customers":1,"inactive_customers":0}
+{"city":"Xiangtan","active_customers":1,"inactive_customers":0}
+{"city":"Xintai","active_customers":1,"inactive_customers":0}
+{"city":"Xinxiang","active_customers":1,"inactive_customers":0}
+{"city":"Yamuna Nagar","active_customers":1,"inactive_customers":0}
+{"city":"Yangor","active_customers":1,"inactive_customers":0}
+{"city":"Yantai","active_customers":1,"inactive_customers":0}
+{"city":"Yaound","active_customers":1,"inactive_customers":0}
+{"city":"Yerevan","active_customers":1,"inactive_customers":0}
+{"city":"Yinchuan","active_customers":1,"inactive_customers":0}
+{"city":"Yingkou","active_customers":1,"inactive_customers":0}
+{"city":"York","active_customers":1,"inactive_customers":0}
+{"city":"Yuncheng","active_customers":1,"inactive_customers":0}
+{"city":"Yuzhou","active_customers":1,"inactive_customers":0}
+{"city":"Zalantun","active_customers":1,"inactive_customers":0}
+{"city":"Zanzibar","active_customers":1,"inactive_customers":0}
+{"city":"Zaoyang","active_customers":1,"inactive_customers":0}
+{"city":"Zapopan","active_customers":1,"inactive_customers":0}
+{"city":"Zaria","active_customers":1,"inactive_customers":0}
+{"city":"Zeleznogorsk","active_customers":1,"inactive_customers":0}
+{"city":"Zhezqazghan","active_customers":1,"inactive_customers":0}
+{"city":"Zhoushan","active_customers":1,"inactive_customers":0}
+{"city":"Ziguinchor","active_customers":1,"inactive_customers":0}
+{"city":"al-Ayn","active_customers":1,"inactive_customers":0}
+{"city":"al-Hawiya","active_customers":1,"inactive_customers":0}
+{"city":"al-Manama","active_customers":1,"inactive_customers":0}
+{"city":"al-Qadarif","active_customers":1,"inactive_customers":0}
+{"city":"al-Qatif","active_customers":1,"inactive_customers":0}
+{"city":"guas Lindas de Gois","active_customers":1,"inactive_customers":0}
+{"city":"ostka","active_customers":1,"inactive_customers":0}
+{"city":"s-Hertogenbosch","active_customers":1,"inactive_customers":0}

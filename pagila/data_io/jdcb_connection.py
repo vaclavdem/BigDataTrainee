@@ -1,4 +1,8 @@
 from db.spark_connection import spark
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 def jdbc_input_function(table):
     """
@@ -8,9 +12,9 @@ def jdbc_input_function(table):
     :return: loaded db table
     """
     return spark.read.format("jdbc") \
-        .option("url", "jdbc:postgresql://localhost:5433/postgres") \
+        .option("url", os.getenv("URL")) \
         .option("dbtable", table) \
-        .option("user", "postgres") \
-        .option("password", "123456") \
+        .option("user", os.getenv("USER")) \
+        .option("password", os.getenv("PASSWORD")) \
         .option("driver", "org.postgresql.Driver") \
         .load()
