@@ -1,0 +1,16 @@
+{"name":"Action","count(film_id)":149}
+{"name":"Animation","count(film_id)":148}
+{"name":"Children","count(film_id)":150}
+{"name":"Classics","count(film_id)":147}
+{"name":"Comedy","count(film_id)":143}
+{"name":"Documentary","count(film_id)":145}
+{"name":"Drama","count(film_id)":152}
+{"name":"Family","count(film_id)":147}
+{"name":"Foreign","count(film_id)":150}
+{"name":"Games","count(film_id)":150}
+{"name":"Horror","count(film_id)":142}
+{"name":"Music","count(film_id)":152}
+{"name":"New","count(film_id)":147}
+{"name":"Sci-Fi","count(film_id)":149}
+{"name":"Sports","count(film_id)":145}
+{"name":"Travel","count(film_id)":151}
