@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  airflow:
+    image: apache/airflow:2.10.2-python3.11
+    container_name: airflow_standalone
+    restart: always
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=SequentialExecutor
+      - AIRFLOW__CORE__LOAD_EXAMPLES=false
+      - AIRFLOW_UID=50000
+      - _AIRFLOW_WWW_USER_USERNAME=admin
+      - _AIRFLOW_WWW_USER_PASSWORD=admin
+      - _PIP_ADDITIONAL_REQUIREMENTS=apache-airflow-providers-mongo pandas apache-airflow==2.10.2
+    command: airflow standalone
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./data:/data
+    depends_on:
+      - mongodb
+
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    restart: always
+    ports:
+      - "27018:27017"
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_ROOT_PASSWORD=password
+    volumes:
+      - mongo_data:/data/db
+
+volumes:
+  mongo_data:
