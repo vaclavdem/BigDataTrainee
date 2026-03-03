@@ -1,0 +1,6 @@
+pandas
+snowflake-snowpark-python
+notebook
+python-dotenv
+apache-airflow-providers-filesystem
+apache-airflow-providers-snowflake

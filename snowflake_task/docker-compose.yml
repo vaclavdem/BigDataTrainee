@@ -1,0 +1,22 @@
+services:
+  airflow:
+    image: apache/airflow:2.10.2-python3.11
+    container_name: airflow
+    restart: always
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=SequentialExecutor
+      - AIRFLOW__CORE__LOAD_EXAMPLES=false
+      - AIRFLOW__CORE__FERNET_KEY=u2hpwAc0hty8YXiwb5N7F79maYrT-pgP504sgLP-3FQ=
+      - AIRFLOW_UID=50000
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./data:/data
+    command: >
+      bash -c "
+      airflow db init &&
+      airflow users create --username admin --password admin --firstname admin --lastname admin --role Admin --email admin@example.com &&
+      airflow webserver & airflow scheduler
+      "
